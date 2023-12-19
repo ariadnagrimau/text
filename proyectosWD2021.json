@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "autor": "Pau Roca",
+    "titulo": "Silenci Vibrant",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Representa la paradoxa poètica de la vibració en el silenci.",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 2,
+    "autor": "Arnau Bosch",
+    "titulo": "Llum Difuminada",
+    "srcimg": "https://picsum.photos/1024/480?random=2/",
+    "alt": "Descripción de la imágen",
+    "texto": "Representa la delicadesa i la suavitat de la llum que es fon amb l'entorn.",
+    "url": "http://www.google.com"
+},
+{
+    "id": 3,
+    "autor": "Marta Vidal",
+    "titulo": "Mirada Inexplorada",
+    "srcimg": "https://picsum.photos/1024/480?random=3/",
+    "alt": "Descripción de la imágen",
+    "texto": "És una obra que fusiona elements surrealistes amb una expressió contemporània.",
+    "url": "http://www.google.com"
+},
+{
+    "id": 4,
+    "autor": "Bernat Roig",
+    "titulo": "Simfonia de Colors",
+    "srcimg": "https://picsum.photos/1024/480?random=4/",
+    "alt": "Descripción de la imágen",
+    "texto": "És una obra artística que combina la pintura i la música d'una manera única",
+    "url": "http://www.google.com"
+},
+{
+    "id": 5,
+    "autor": "Marta Baró",
+    "titulo": "Esdeveniment Efímer",
+    "srcimg": "https://picsum.photos/1024/480?random=5/",
+    "alt": "Descripción de la imágen",
+    "texto": "És una obra que intenta representar l'efímer a través de divereses experiències i moments importants en la vida d'una persona.",
+    "url": "http://www.google.com"
+},
+{
+    "id": 6,
+    "autor": "Laia Pujol",
+    "titulo": "Tramuntana Sona",
+    "srcimg": "https://picsum.photos/1024/480?random=6/",
+    "alt": "Descripción de la imágen",
+    "texto": "Representa la tramuntana d'una forma corpòrea, de forma que podem posar-li una cara.",
+    "url": "http://www.google.com"
+}
+
+]
