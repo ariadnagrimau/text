@@ -2,7 +2,7 @@
     "id": 1,
     "autor": "Pau Roca",
     "titulo": "Silenci Vibrant",
-    "srcimg": "fotos/a.jpg",
+    "srcimg": "/fotos/a.jpg",
     "alt": "Texto alternativo de la imágen",
     "texto": "Representa la paradoxa poètica de la vibració en el silenci.",
     "url": "https://afrikiudl.github.io/practicawd/"
