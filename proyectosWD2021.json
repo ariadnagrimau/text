@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "autor": "Pau Roca",
-    "titulo": "Silenci Vibrant",
+    "titulo": "SILENCI VIBRANT",
     "srcimg": "https://images.pexels.com/photos/1145720/pexels-photo-1145720.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Texto alternativo de la imágen",
     "texto": "Representa la paradoxa poètica de la vibració en el silenci.",
@@ -10,7 +10,7 @@
 {
     "id": 2,
     "autor": "Arnau Bosch",
-    "titulo": "Llum Difuminada",
+    "titulo": "LLUM DIFUMINADA",
     "srcimg": "https://images.pexels.com/photos/1109354/pexels-photo-1109354.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Descripción de la imágen",
     "texto": "Representa la delicadesa i la suavitat de la llum que es fon amb l'entorn.",
@@ -19,7 +19,7 @@
 {
     "id": 3,
     "autor": "Marta Vidal",
-    "titulo": "Mirada Inexplorada",
+    "titulo": "MIRADA INEXPLORADA",
     "srcimg": "https://images.pexels.com/photos/1109352/pexels-photo-1109352.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Descripción de la imágen",
     "texto": "És una obra que fusiona elements surrealistes amb una expressió contemporània.",
@@ -28,7 +28,7 @@
 {
     "id": 4,
     "autor": "Bernat Roig",
-    "titulo": "Simfonia de Colors",
+    "titulo": "SIMFONIA DE COLORS",
     "srcimg": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Descripción de la imágen",
     "texto": "És una obra artística que combina la pintura i la música d'una manera única",
@@ -37,7 +37,7 @@
 {
     "id": 5,
     "autor": "Marta Baró",
-    "titulo": "Esdeveniment Efímer",
+    "titulo": "ESDEVENIMENT EFÍMER",
     "srcimg": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Descripción de la imágen",
     "texto": "És una obra que intenta representar l'efímer a través de divereses experiències i moments importants en la vida d'una persona.",
@@ -46,7 +46,7 @@
 {
     "id": 6,
     "autor": "Laia Pujol",
-    "titulo": "Tramuntana Sona",
+    "titulo": "TRAMUNTANA SONA",
     "srcimg": "https://images.pexels.com/photos/1532704/pexels-photo-1532704.jpeg?auto=compress&cs=tinysrgb&w=600",
     "alt": "Descripción de la imágen",
     "texto": "Representa la tramuntana d'una forma corpòrea, de forma que podem posar-li una cara.",
